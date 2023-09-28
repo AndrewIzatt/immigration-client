@@ -13,7 +13,7 @@
 
 ### Client
 
-- know what documents my freaking lawyer needs
+- know what documents my lawyer needs
 - get files to lawyer
 - authenticate myself and my documents
 
